@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(24, 160, 24)
+}
+#time {
+    font-size: 30px;
+    float: right;
+    margin-right: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#score {
+    font-size: 30px;
+    margin-left: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
+#sketch_draw {
+    color:rgb(240, 173, 73);
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
